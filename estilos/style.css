@@ -1,6 +1,44 @@
 @charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
 :root {
     --cor1: #4ABDD4;
     --cor2: #2C797A;
+}
+
+body, html{
+    background-color: var(--cor2);
+    height: 100vh;
+    width: 100vh;
+    position: relative;
+}
+
+#login{
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    
+    width: 250px;
+    height: 500px;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.541);
+}
+
+#login > #imagem{
+    background: var(--cor1) url(../imagens/foto4.jpg) no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+#login > #formulario{
+    display: block;
+    padding: 10px;
 }
