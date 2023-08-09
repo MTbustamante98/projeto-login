@@ -33,6 +33,7 @@ body, html{
 }
 
 #login > #imagem{
+    display: block;
     background: var(--cor1) url(../imagens/foto4.jpg) no-repeat;
     background-size: cover;
     height: 200px;
