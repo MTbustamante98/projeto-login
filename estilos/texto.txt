@@ -1,0 +1,8 @@
+Buenas galera. Comecei os estudos de HTML/CSS pois sempre me chamou a atenção, nunca tinha dado o primeiro passo mas agora eu consegui e estou me dedicando bastante, faço o curso no Curso em Vídeo, do Gustavo Guanabara, é um curso bom e completo, com uma didática incrível.
+Enfim, quero deixar registrado um projeto que terminei de, tela de login, um projeto simples e tals, mas leva algumas horas para prepará-lo. Ele está totalmente responsivo para diversos tipos de dispositivos.
+Bom, gostaria de opiniões sobre e, aceito criticas construtivas...
+link do site se alguém se interessar em olhar para observar a diferença na sua tela
+https://mtbustamante98.github.io/projeto-login/
+link do meu github
+https://github.com/MTbustamante98
+obrigado pela atenção!!
